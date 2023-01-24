@@ -1,4 +1,4 @@
-//Output greatest value
+//Output greatest value using conditional :? operator
 #include <iostream>
 using namespace std;
 
@@ -11,9 +11,7 @@ int main(){
     cout << "number 1 = " << num1 <<endl;
     cout << "number 2 = " << num2 <<endl;
     cout << "number 3 = " << num3 <<endl;
-    //highest = (num1 > num2) ? (num1>num3)? num1:num2:(num2>num3) ? num2 : num3;
-    //highest= (num1 > num2) ?  (num1>num3) ? num1:num2 : num2 ;
-    //highest = (num2 > num3) ? num2 : num3;
+
     highest = (num1 > num2) ? num1 :num2;
     highest =  (highest > num3 ) ? highest: num3;
   
