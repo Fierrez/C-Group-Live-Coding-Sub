@@ -1,9 +1,7 @@
 # C++ GROUP LIVE CODING TASK 
 
-
-
 1.	Getting the average of three numbers
-Write the C++ source code that outputs the average of three numbers. Let the values of the three numbers be, 10, 20 and 45. The expected screen output is,
+Write the java source code that outputs the average of three numbers. Let the values of the three numbers be, 10, 20 and 45. The expected screen output is,
 number 1 = 10 
 number 2 = 20 
 number 3 = 45 
@@ -74,3 +72,23 @@ TOTAL SALES FOR THE MONTH OF JULY
 
 	SALESMAN WITH THE HIGHEST SALES: (salesman number)
 
+15.	ask for 20  numbers from the user. Use an array to store the values of these 20 numbers. Output on the screen the original numbers inputted and the numbers in ascending or decending order.
+
+16.	Store 20 employee ID numbers in an integer array and 20 corresponding employee last name in a String array. Use dialog boxes to accept an ID number, and display the appropriate last name.
+
+
+17.	 Write an application that allows a user to enter the names and phone numbers of up to 20 friends. Continue to prompt the user for names and phone numbers until the user enters “zzz” or has entered 20 names, whichever comes first. When the user is finished entering names, produce a count of how many names were entered, but make certain not to count the application-ending dummy “zzz” entry. Then display the names.  Ask the user to type one of the names and display the corresponding phone number.
+
+18.	A personal phone directory contains room for first names and phone numbers for 30 people. Assign names and phone numbers for the first 10 people. Prompt the user for a name, and if the name is found in the list, display the corresponding phone number. If the name is not found in the list, prompt the user for a phone number, and add the new name and phone number to the list. Continue to prompt the user for names until the user enters “0”. After the arrays are full (containing 30 names), do not allow the user to add new entries.
+
+19.	Write a C++ program to convert the temperature in Centigrade to Fahrenheit
+
+
+20.	Write a C++ program to find out the average of a set of integers
+
+21.	Write a C++  program to find the average of 5 numbers using a while loop
+
+
+22.	Write a C++  program to check whether the given integer is a prime number or not
+
+23.	Write a C++ Program to Find the Largest and Smallest Numbers From Random Numbers
